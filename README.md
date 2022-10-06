@@ -1,5 +1,5 @@
 <h1 align="center">foscraft</h1>
-<h5 align="center">I am a Python engineer and programmer. I am currently working as a Backend and Data engineer in Nairobi, Kenya. I have a Bachelors in Mathematics with a Statistics major.</h5>
+<h5 align="center">Python engineer and programmer</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foscraft&label=Profile%20views&color=0e75b6&style=flat" alt="foscraft" /> </p>
 
