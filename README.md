@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Backend projects and Pyspark**
 
 
-- 💬 Ask me about **ALgorithms, Data and Backend engineering.**
+- 💬 Ask me about **Algorithms, Data and Backend engineering.**
 
 - 📫 How to reach me **anyaribari@gmail.com**
 
