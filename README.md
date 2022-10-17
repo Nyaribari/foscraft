@@ -13,11 +13,6 @@
 - 📫 How to reach me **anyaribari@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://twitter.com/foscraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="foscraft" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nyaribari-reuben-230a17153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nyaribari" height="30" width="40" /></a>
-<a href="https://www.stackoverflow.com/users/15028438/foscraft" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
-</p>
 
 <p align="left"> <a href="https://www.github.com/foscraft" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/nyaribari-reuben-230a17153/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15028438/foscraft" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/foscraft" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
