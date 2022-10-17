@@ -5,12 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/foscraft" target="blank"><img src="https://img.shields.io/twitter/follow/foscraft?logo=twitter&style=for-the-badge" alt="foscraft" /></a> </p>
 
-- 🔭 I’m currently working on **Backend projects and Pyspark**
+- 🔭 I’m currently working with *Backend Engineering and Natural Language Processing*
 
 
-- 💬 Ask me about **Algorithms, Data and Backend engineering.**
+- 💬 Ask me about *Algorithms, Data and Backend engineering.*
 
-- 📫 How to reach me **anyaribari@gmail.com**
+- 📫 How to reach me *anyaribari@gmail.com*
 
 <h4 align="left">Connect with me:</h4>
 
