@@ -8,7 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/foscraft" target="blank"><img src="https://img.shields.io/twitter/follow/foscraft?logo=twitter&style=for-the-badge" alt="foscraft" /></a> </p>
 
-- 🔭 I’m currently working with `Backend Engineering and Natural Language Processing`
+- 🔭 I’m currently working with :
+- `Backend Engineering`
+- `Natural Language Processing`
+- `large language models LLMs`
 
 
 - 💬 Ask me about `Algorithms, Data and Backend engineering.`
