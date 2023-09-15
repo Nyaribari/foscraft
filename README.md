@@ -16,12 +16,6 @@
 
 - 💬 Ask me about `Algorithms, Data and Backend engineering.`
 
-- 📫 How to reach me `anyaribari@gmail.com`
-
-<h4 align="left">Connect with me:</h4>
-
-<p align="left"> <a href="https://www.github.com/foscraft" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/nyaribari-reuben-230a17153/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15028438/foscraft" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/foscraft" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 
 
 <h4 align="left">Languages and Tools:</h4>
